@@ -1,6 +1,7 @@
 # user_info
 
 A new Flutter project.
+![alt text](https://github.com/vineetkumarsharma17/user_info-flutter/blob/master/homepage.png)
 ![alt text](https://github.com/vineetkumarsharma17/user_info-flutter/blob/master/user%20info.png)
 ## Getting Started
 
